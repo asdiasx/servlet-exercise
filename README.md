@@ -5,4 +5,4 @@
 
 ### Deploy configuration image:
 
-![config_screen](../images/config-image.png)
+![config_screen](src/images/config-image.png)
